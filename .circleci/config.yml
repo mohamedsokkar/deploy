@@ -9,7 +9,7 @@
 # Orchestrate or schedule a set of jobs
 
 
-
+jobs:
 # Exercise: Config and Deployment
   configure_infrastructure: 
     docker:
