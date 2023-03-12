@@ -11,6 +11,7 @@
 
 
 # Exercise: Config and Deployment
+jobs:
   configure_infrastructure: 
     docker:
       - image: python:3.7-alpine3.11
